@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: cursomc
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Samuel
+Implementation-Vendor-Id: br.com.bitwos.cursomc
+Build-Jdk: 1.8.0_92
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/cursomc
+Created-By: Maven Integration for Eclipse
+
